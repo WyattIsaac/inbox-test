@@ -1,3 +1,2 @@
-# Github 开始使用
+# Initial page
 
-begin 2019.07.26
